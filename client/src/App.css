@@ -1,0 +1,62 @@
+.App {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: rgb(0, 188, 212);
+  font-family: 'helvetica', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 3.8vw;
+  font-weight: 300;
+  color: #fff;
+  margin: 1.6em 0;
+  text-align: center;
+}
+
+.container {
+  background: #fff;
+  padding-bottom: 16px;
+  margin-bottom: 16px;
+  padding-top: 32px;
+}
+
+.masonry {
+  margin: 0 auto;
+}
+
+.card {
+  width: 296px;
+  box-shadow: rgba(0, 0, 0, 0.14902) 0px 2px 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card > h2 {
+  font-size: 6em;
+  color: #fff;
+  margin: 1.6em 0;
+}
+
+a {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.top-left {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  background-color: white;
+}
