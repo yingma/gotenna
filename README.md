@@ -26,6 +26,6 @@ then you will see the screen:<br />
   node ./bin/www (pid 99994)
   in /Users/admin/Desktop/gotenna/api
 
-Would you like to run the app on another port instead? (Y/n) 
+Would you like to run the app on another port instead? (Y/n)<br /> 
 Type Y to you will view the client in default browser <br />
 
